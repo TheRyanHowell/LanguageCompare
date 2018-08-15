@@ -1,0 +1,3 @@
+title: Echo
+description: >
+    Echos random 32 character strings to stdout 1000 times
