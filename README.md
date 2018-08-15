@@ -11,3 +11,8 @@ Make sure you have [Node.js](https://nodejs.org) and relevant language interpret
 yarn install
 node index.js
 ```
+
+## Links
+[GOGS](https://box.rhowell.io/gogs/ryan/LanguageCompare/)
+
+[GitHub Mirror](https://github.com/TheRyanHowell/LanguageCompare)
